@@ -1,0 +1,7 @@
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 9\Portafolio_09_JaenCarlo\Portafolio_09_JaenCarlo\bin\Debug\Portafolio_09_JaenCarlo.exe.config
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 9\Portafolio_09_JaenCarlo\Portafolio_09_JaenCarlo\bin\Debug\Portafolio_09_JaenCarlo.exe
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 9\Portafolio_09_JaenCarlo\Portafolio_09_JaenCarlo\bin\Debug\Portafolio_09_JaenCarlo.pdb
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 9\Portafolio_09_JaenCarlo\Portafolio_09_JaenCarlo\obj\Debug\Portafolio_09_JaenCarlo.csproj.AssemblyReference.cache
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 9\Portafolio_09_JaenCarlo\Portafolio_09_JaenCarlo\obj\Debug\Portafolio_09_JaenCarlo.csproj.CoreCompileInputs.cache
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 9\Portafolio_09_JaenCarlo\Portafolio_09_JaenCarlo\obj\Debug\Portafolio_09_JaenCarlo.exe
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 9\Portafolio_09_JaenCarlo\Portafolio_09_JaenCarlo\obj\Debug\Portafolio_09_JaenCarlo.pdb
